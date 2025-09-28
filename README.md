@@ -1,4 +1,4 @@
-🛠️ CodeSmith
+# 🛠️ CodeSmith
 
 CodeSmith is an AI-powered coding assistant built with LangGraph.
 It works like a multi-agent dev team that can take a natural-language request and turn it into a working project — step by step — using real developer workflows.
@@ -42,3 +42,4 @@ Create a to-do list application using HTML, CSS, and JavaScript.
 Create a simple calculator web application.
 
 Create a simple blog API in FastAPI with a SQLite database.
+
