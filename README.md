@@ -12,7 +12,7 @@ Architect Agent – Breaks the plan into specific engineering tasks with explici
 Coder Agent – Implements each task, writes code for files, and follows practical dev workflows.
 
 
-Coder Agent Architecture
+------
 
 Generates code per task, iterates on feedback, and respects the task context produced by the architect.
 
@@ -45,6 +45,7 @@ Create a to-do list application using HTML, CSS, and JavaScript.
 Create a simple calculator web application.
 
 Create a simple blog API in FastAPI with a SQLite database.
+
 
 
 
