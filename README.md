@@ -6,7 +6,9 @@ It works like a multi-agent dev team that can take a natural-language request an
 # 🏗️ Architecture
 
 Planner Agent – Analyzes your request and generates a detailed project plan.
+
 Architect Agent – Breaks the plan into specific engineering tasks with explicit context for each file.
+
 Coder Agent – Implements each task, writes code for files, and follows practical dev workflows.
 
 Coder Agent Architecture
@@ -42,5 +44,6 @@ Create a to-do list application using HTML, CSS, and JavaScript.
 Create a simple calculator web application.
 
 Create a simple blog API in FastAPI with a SQLite database.
+
 
 
