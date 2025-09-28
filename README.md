@@ -10,6 +10,7 @@ Architect Agent – Breaks the plan into specific engineering tasks with explici
 Coder Agent – Implements each task, writes code for files, and follows practical dev workflows.
 
 Coder Agent Architecture
+
 Generates code per task, iterates on feedback, and respects the task context produced by the architect.
 
 🚀 Getting Started
